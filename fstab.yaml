@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p10652-e192853-cmstg.adobeaemcloud.com/bin/franklin.delivery/vdua/ue-repo/main
+    url: https://author-p10652-e203356-cmstg.adobeaemcloud.com/bin/franklin.delivery/vdua/ue-repo/main
     type: "markup"
     suffix: ".html"
